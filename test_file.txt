@@ -1,0 +1,8 @@
+
+
+
+#git checkout master -- again rollbacks to master 
+
+Git checkout is used to change the master from the different commit messages
+
+I will write my script today and it will change my life for good 
