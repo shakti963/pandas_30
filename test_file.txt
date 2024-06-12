@@ -1,6 +1,4 @@
-
-
-
+Learning version control system.
 #git checkout master -- again rollbacks to master 
 
 Git checkout is used to change the master from the different commit messages
